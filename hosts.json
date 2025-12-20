@@ -113,8 +113,8 @@
   },
   {
     "name": "list-exclude-gosuslugi.txt",
-    "author": "не указано",
-    "description": "не указано",
+    "author": "@mewmrow",
+    "description": "Домены госуслуг для черного списка",
     "hash": "b4618bb186e77aad2f2ed98c64bdc01df7a67597837cc2a423f303f6ecd7181b",
     "type": "list_exclude",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/exclude/list-exclude-gosuslugi.txt"
