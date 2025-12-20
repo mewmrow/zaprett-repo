@@ -110,5 +110,13 @@
     "hash": "64e5195c90165bbe37bb6635d239c58b5c0dc05c127910e259ba4100f17a2f02",
     "type": "list",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/include/list-roblox.txt"
+  },
+  {
+    "name": "list-exclude-gosuslugi.txt",
+    "author": "не указано",
+    "description": "не указано",
+    "hash": "b4618bb186e77aad2f2ed98c64bdc01df7a67597837cc2a423f303f6ecd7181b",
+    "type": "list_exclude",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/exclude/list-exclude-gosuslugi.txt"
   }
 ]
