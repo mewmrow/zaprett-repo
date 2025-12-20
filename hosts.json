@@ -113,8 +113,8 @@
   },
   {
     "name": "list-exclude-x5group.txt",
-    "author": "не указано",
-    "description": "не указано",
+    "author": "@mewmrow",
+    "description": "X5group домены для черного списка",
     "hash": "04bc8730829a9fd6c500fa09797b62286c6bbf934f9d82b2a0718ec3982ec3cb",
     "type": "list_exclude",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/exclude/list-exclude-x5group.txt"
