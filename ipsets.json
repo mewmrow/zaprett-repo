@@ -23,6 +23,7 @@
     "type": "ipset_exclude",
     "url": "https://github.com/CherretGit/zaprett-repo/raw/refs/heads/main/ipsets/exclude/ipset-exclude-yandex.txt"
   },
+  {
     "name": "ipset-exclude-x5group.txt",
     "description": "Ipset'ы для чёрного списка",
     "author": "@mewmrow",
@@ -30,6 +31,7 @@
     "type": "ipset_exclude",
     "url": "https://github.com/CherretGit/zaprett-repo/raw/refs/heads/main/ipsets/exclude/ipset-exclude-x5group.txt"
   },
+  {
     "name": "ipset-exclude-gosuslugi.txt",
     "description": "Ipset'ы для чёрного списка",
     "author": "@mewmrow",
