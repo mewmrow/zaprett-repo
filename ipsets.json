@@ -38,5 +38,13 @@
     "hash": "212a095e63317737d747fe66d751697c3f6c2faf0f469fd5f2dd096a247f2e47",
     "type": "ipset_exclude",
     "url": "https://github.com/CherretGit/zaprett-repo/raw/refs/heads/main/ipsets/exclude/ipset-exclude-gosuslugi.txt"
+  },
+  {
+    "name": "ipset-telegram.txt",
+    "description": "Ipset'ы для нормальной работы телеграмма",
+    "author": "@mewmrow",
+    "hash": "87fba6771de3e6c62444a10bd6395132390d7b6dd0b25c1380ee1a02084e2dc6",
+    "type": "ipset",
+    "url": "https://github.com/CherretGit/zaprett-repo/raw/refs/heads/main/ipsets/include/ipset-telegram.txt"
   }
 ]
