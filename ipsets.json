@@ -16,6 +16,13 @@
     "url": "https://github.com/CherretGit/zaprett-repo/raw/refs/heads/main/ipsets/include/ipset-roblox.txt"
   },
   {
+    "name": "ipset-exclude-x5group.txt",
+    "description": "Ipset'ы для чёрного списка",
+    "author": "@mewmrow",
+    "hash": "26181668f6908f1d4f6eddc3dfee19200cea5d759fef577f88931233bc0b4613",
+    "type": "ipset_exclude",
+    "url": "https://github.com/CherretGit/zaprett-repo/raw/refs/heads/main/ipsets/exclude/ipset-exclude-x5group.txt"
+  },
     "name": "ipset-exclude-gosuslugi.txt",
     "description": "Ipset'ы для чёрного списка",
     "author": "@mewmrow",
