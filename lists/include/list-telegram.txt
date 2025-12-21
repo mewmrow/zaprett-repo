@@ -18,8 +18,6 @@ venus.web.telegram.org
 aurora.web.telegram.org
 vesta.web.telegram.org
 flora.web.telegram.orgtelegram.org
-telegram.me
-t.me
 core.telegram.org
 desktop.telegram.org
 macos.telegram.org
@@ -37,7 +35,6 @@ venus.web.telegram.org
 aurora.web.telegram.org
 vesta.web.telegram.org
 flora.web.telegram.org
-t.me
 tg.dev
 tg.org
 tx.me
@@ -59,9 +56,7 @@ telegram.in
 telegram.info
 telegram.io
 telegram.jp
-telegram.me
 telegram.net
-telegram.org
 telegram.qa
 telegram.ru
 telegram.services
