@@ -127,6 +127,7 @@
     "type": "list_exclude",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/exclude/list-exclude-x5group.txt"
   },
+  {
     "name": "list-exclude-gosuslugi.txt",
     "author": "@mewmrow",
     "description": "Домены госуслуг для черного списка",
