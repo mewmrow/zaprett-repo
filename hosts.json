@@ -119,6 +119,7 @@
     "type": "list_exclude",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/exclude/list-exclude-yandex.txt"
   },
+  {
     "name": "list-exclude-x5group.txt",
     "author": "@mewmrow",
     "description": "X5group домены для черного списка",
