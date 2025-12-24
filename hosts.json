@@ -134,5 +134,13 @@
     "hash": "128f8b14dbf49cc47ac97c7962efc7da76dc568ac0855b3bef090c832992eff6",
     "type": "list",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/include/list-whatsapp.txt"
+  },
+  {
+    "name": "list-roblox.txt",
+    "author": "не указано",
+    "description": "не указано",
+    "hash": "fd778c29b60ca43d6f2c07745cb37ab514c846cfa9ead3d5a0f5015187b3848c",
+    "type": "include",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/include/list-roblox.txt"
   }
 ]
