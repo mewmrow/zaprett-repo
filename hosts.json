@@ -137,8 +137,8 @@
   },
   {
     "name": "list-roblox.txt",
-    "author": "не указано",
-    "description": "не указано",
+    "author": "zaprett-devs and @mewmrow",
+    "description": "Домены Roblox",
     "hash": "fd778c29b60ca43d6f2c07745cb37ab514c846cfa9ead3d5a0f5015187b3848c",
     "type": "include",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/include/list-roblox.txt"
