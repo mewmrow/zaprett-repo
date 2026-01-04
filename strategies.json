@@ -542,5 +542,13 @@
     "hash": "d5fedcc8bf676c29f1f7bcc7c459ef371febf8e246b32dbe2e7e20235edfbc62",
     "type": "byedpi",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/byedpi/strategy-test-speed-2.txt"
+  },
+  {
+    "name": "strategy-alt2-roblox.txt",
+    "author": "Hellogames_.",
+    "description": "ALT 2 с обходом для роблокса",
+    "hash": "fec1980eb72294ef28b02c639b727eac6eb78fdd4c9b492db5804c9e8c56c168",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-alt2-roblox.txt"
   }
 ]
